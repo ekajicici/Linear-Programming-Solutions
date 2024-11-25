@@ -106,3 +106,89 @@ This means that to maximize the profit, the optimal solution is to produce 4 uni
 This project demonstrates how linear programming problems can be solved both graphically and computationally using Python. The graphical approach provides a clear visual representation of the feasible region and the optimal solution. The Python code allows you to solve various LP problems by plotting constraints, shading feasible regions, and calculating the objective function to find the optimal solution.
 
 By following the instructions and using the code provided, you can solve any of the listed LP problems and extend the approach to more complex real-world optimization problems.
+
+
+### The Linear programming problems  
+
+### 1. Maximizing Profit for a Factory 
+A factory produces two types of products, A and B. Each unit of product A requires 2 
+hours of machine time and 1 unit of raw material, while each unit of product B requires 
+3 hours of machine time and 2 units of raw material. The factory has a total of 12 hours 
+of machine time and 8 units of raw material available each day. 
+The profit from each unit of product A is N3, and the profit from each unit of product B 
+is N4. Maximize the total profit.
+
+### 2.  Minimizing Cost for a Manufacturer 
+A company manufactures two types of products, X and Y, using two resources: labor 
+and materials. Each unit of product X requires 1 hour of labor and 2 units of material, 
+while each unit of product Y requires 2 hours of labor and 1 unit of material. The 
+company has a total of 6 hours of labor and 5 units of material available. 
+The cost of producing each unit of product X is N2, and the cost of producing each unit 
+of product Y is N5.  Minimize the total production cost.
+ 
+### 3. Maximizing Production with Multiple Resources 
+A factory produces two types of products, A and B, using three resources: labor, material, 
+and machine time. Each unit of product A requires 2 hours of labor, 3 units of material, 
+and 1 hour of machine time. Each unit of product B requires 1 hour of labor, 2 units of 
+material, and 2 hours of machine time. The company has 20 hours of labor, 30 units of 
+material, and 18 hours of machine time available. The profit for each unit of product A is 
+N5, and the profit for each unit of product B is N4. Maximize the total profit.
+
+### 4.  Maximizing Revenue from Sales 
+A company sells two products, A and B, and has a limited amount of advertising budget 
+and production capacity. Each unit of product A brings in N4, and each unit of product 
+B brings in N5. The company has a total advertising budget of N20 and a production 
+capacity of 15 units. The advertisement cost for each unit of product A is N1, and the 
+advertisement cost for each unit of product B is N2. Each unit of product A requires 1 
+unit of production capacity, while each unit of product B requires 2 units of production 
+capacity. Maximize the total revenue.
+
+### 5. Resource Allocation for Two Projects 
+A company is considering two projects, P1 and P2. Each project requires both labor 
+hours and capital investment. Project P1 requires 3 labor hours and 2 units of capital, 
+while project P2  requires 4 labor hours and 1 unit of capital. The company has a total of 
+12 labor hours and 6 units of capital available. 
+The profit from project P1 is N8 per unit, and the profit from project P2 is N7 per unit. 
+Maximize the total profit.
+
+### 6. Production Planning for a Bakery 
+A bakery produces two types of cakes, chocolate cakes and vanilla cakes. Each 
+chocolate cake requires 1 hour of baking time and 3 units of flour, while each vanilla 
+cake requires 2 hours of baking time and 2 units of flour. The bakery has a total of 8 
+hours of baking time and 12 units of flour available. The bakery earns a profit of N5 for 
+each chocolate cake and N3 for each vanilla cake. Maximize the total profit.
+
+### 7. Minimizing Cost for a Transport Company 
+A transport company operates two types of vehicles, X and Y, to transport goods. 
+Vehicle X requires 3 hours of fuel and 2 hours of driver time for each trip, while vehicle 
+Y requires 4 hours of fuel and 1 hour of driver time for each trip. The company has a 
+budget that allows for 18 hours of fuel and 10 hours of driver time. The cost of using 
+vehicle X is $6 per trip, and the cost of using vehicle Y is $7 per trip. Minimize the total 
+cost.
+
+### 8.  Maximizing Revenue from Two Products 
+A company manufactures two types of products, P1 and P2, and sells them at different 
+prices. Product P1  requires 4 hours of labor, 1 unit of raw material, and 3 units of 
+machine time to produce. Product P2 requires 3 hours of labor, 2 units of raw material, 
+and 2 units of machine time. The company has 30 hours of labor, 18 units of raw 
+material, and 24 units of machine time available. The revenue from selling each unit of 
+P1 is $10, and the revenue from selling each unit of P2 is $12.
+
+### 9. Advertising Campaign Budget Allocation 
+A company runs two advertising campaigns, A and B, using a budget allocated for 
+television, print media, and social media. The company has a total of $10,000 to allocate 
+across these campaigns, with the following constraints: Campaign A requires $4,000 for 
+television, $2,000 for print media, and $1,000 for social media. Campaign B requires $3,000 
+for television, $2,500 for print media, and $1,500 for social media. The company can spend 
+no more than $5,000 on television, $4,500 on print media, and $3,000 on social media.  
+The company wants to maximize the reach of the campaigns, where: The reach of 
+campaign A is 500,000 people. The reach of campaign BBB is 400,000 people. Maximize 
+the total reach.
+
+### 10. Meal Planning for a School Cafeteria 
+A school cafeteria wants to plan a meal schedule for the week, offering two types of meals, 
+A and B. Each type of meal requires certain ingredients, and the cafeteria has limited 
+resources. Meal A requires 2 units of meat, 3 units of vegetables, and 1 unit of rice. Meal B 
+requires 4 units of meat, 2 units of vegetables, and 2 units of rice. The cafeteria has a total 
+of 30 units of meat, 24 units of vegetables, and 20 units of rice available for the week. The 
+cafeteria earns $6 from each meal A and $5 from each meal B. Maximize the total revenue.
